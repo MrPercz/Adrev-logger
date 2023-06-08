@@ -3,7 +3,7 @@ Admin Revive Logger
 
 # Setup
 
-Update "Webhook" inside config.lua
+Update "WEBHOOK_GOES_HERE" inside config.lua
 Add to server, and ensure. 
 
 **Your Death Script MUST start before PD-ServerLogger**
